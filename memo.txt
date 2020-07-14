@@ -22,7 +22,7 @@ git pull
 変更を追加、コミット、プッシュ
 ================================
 git add -A
-git commit -m "ナビゲーションCSSコーディング"
+git commit -m "ブランチ作成"
 git push
 
 ▼別アカウントでPushしようとしてエラーが出た場合
@@ -35,9 +35,9 @@ https://hacknote.jp/archives/54105/
 ==ブランチを確認==
 git branch
 ==ブランチを作成==
-git branch [ブランチ名]
+git branch mac_branch
 ==ブランチを移動==
-git checkout [ブランチ名]
+git checkout mac_branch
 
 
 ================================
