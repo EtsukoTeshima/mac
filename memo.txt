@@ -1,0 +1,5 @@
+memo
+
+git add -A
+git commit -m "拡張子を変更"
+git push
