@@ -1,16 +1,13 @@
 memo
 
 git add -A
-git commit -m "fix2"
+git commit -m "参考記事追加"
 git push
 
-EtsukoTeshima
-github0216
-etsukoteshima@gmail.com
 
 
-
-
+▼別アカウントでPushしようとしてエラーが出た場合
+https://hacknote.jp/archives/54105/
 
 
 
