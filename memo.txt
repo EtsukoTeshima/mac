@@ -1,8 +1,9 @@
 memo
 
 git add -A
-git commit -m "パスワード"
+git commit -m "メールアドレス追加"
 git push
 
 EtsukoTeshima
 github0216
+etsukoteshima@gmail.com
