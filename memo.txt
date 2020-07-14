@@ -1,0 +1,5 @@
+memo
+
+git add -A
+git commit -m "メモ追加"
+git push
