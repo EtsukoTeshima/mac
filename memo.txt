@@ -1,8 +1,12 @@
 memo
 
 git add -A
-git commit -m "パスワード"
+git commit -m "fix"
 git push
 
 EtsukoTeshima
 github0216
+
+
+
+
