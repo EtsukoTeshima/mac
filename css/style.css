@@ -1,8 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: solid 1px #000;
+}
+.logo {
+    font-weight: bold;
+    font-size: 20px;
+}
 ul {
     display: flex;
     justify-content: center;
 }
 li {
     list-style: none;
-    padding: 1em;
+    padding: 0 0.5em;
 }
