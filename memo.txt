@@ -1,12 +1,16 @@
 memo
 
 git add -A
-git commit -m "fix"
+git commit -m "fix2"
 git push
 
 EtsukoTeshima
 github0216
 etsukoteshima@gmail.com
+
+
+
+
 
 
 
