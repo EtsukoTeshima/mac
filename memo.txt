@@ -1,5 +1,8 @@
 memo
 
 git add -A
-git commit -m "拡張子を変更"
+git commit -m "パスワード"
 git push
+
+EtsukoTeshima
+github0216
