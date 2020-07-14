@@ -22,9 +22,10 @@ git pull
 変更を追加、コミット、プッシュ
 ================================
 git add -A
-git commit -m "ブランチ作成"
+git commit -m "ロゴ追加"
 git push
 
+git push origin mac_branch
 ▼別アカウントでPushしようとしてエラーが出た場合
 https://hacknote.jp/archives/54105/
 
