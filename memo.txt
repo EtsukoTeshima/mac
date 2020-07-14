@@ -22,7 +22,7 @@ git pull
 変更を追加、コミット、プッシュ
 ================================
 git add -A
-git commit -m "ロゴ追加"
+git commit -m "メモ更新"
 git push
 
 git push origin mac_branch
@@ -38,13 +38,13 @@ git branch
 ==ブランチを作成==
 git branch mac_branch
 ==ブランチを移動==
-git checkout mac_branch
+git checkout master
 
 
 ================================
 マージ
 ================================
-git merge [ブランチ名]
+git merge mac_branch
 
 
 ================================
