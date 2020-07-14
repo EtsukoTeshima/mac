@@ -25,7 +25,7 @@ git pull origin mac_branch
 変更を追加、コミット、プッシュ
 ================================
 git add -A
-git commit -m "mac_branchをマージ"
+git commit -m "コメント"
 git push
 
 git push origin mac_branch
@@ -41,7 +41,7 @@ git branch
 ==ブランチを作成==
 git branch mac_branch
 ==ブランチを移動==
-git checkout master
+git checkout mac_branch
 
 
 ================================
